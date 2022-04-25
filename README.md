@@ -15,7 +15,7 @@ This project is build with React where the user can post based on the id dynamic
 - React
 
 # Demo
-For Live Demo, Please click here: <a href="https://joyful-capybara-b75e91.netlify.app/" target="_blank">DEMO</a>
+For Live Demo, Please click here: <a href="https://new-blogger.netlify.app/" target="_blank">DEMO</a>
 
 # Features
 
