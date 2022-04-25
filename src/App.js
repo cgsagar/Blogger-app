@@ -8,7 +8,7 @@ import PostsShow from "./PostsShow";
 const App = (props) => {
     return (
         <div>
-            <span><Link to="/">Home</Link></span> |
+            <span><Link to="/" component={Home}>Home</Link></span> |
             <span><Link to="/users">Users</Link></span> |
             <span><Link to="/posts">Posts</Link></span>
 
